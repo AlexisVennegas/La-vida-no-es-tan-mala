@@ -1,27 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Repositorio de Motivación</title>
-</head>
-<body>
-    <h1>Repositorio de Motivación</h1>
+# Repositorio de Motivación
 
-    <p>¡Bienvenido/a al Repositorio de Motivación! Este es un proyecto personal para brindarte apoyo y 
-    motivación en el día a día.</p>
+¡Bienvenido/a al Repositorio de Motivación! Este es un proyecto personal diseñado para brindarte apoyo y motivación en tu día a día.
 
-    <h2>Cómo funciona</h2>
+## Cómo funciona
 
-    <p>Cuando necesites un impulso de motivación, simplemente regresa a 
-    <a href="http://afrobook.me/La-vida-no-es-tan-mala/">este repositorio</a> 
-    tomate un momento para respirar conscientemente durante los 3 minutos y 40 segundos que dura la canción.</p>
+Cuando necesites un impulso de motivación, simplemente regresa a [este repositorio](http://afrobook.me/La-vida-no-es-tan-mala/) y tómate un momento para respirar conscientemente durante los 3 minutos y 40 segundos que dura la canción.
 
-    
+RHCP y darse un tiempo para respirar son la clave para sobrevivir en este mundo lleno de problemas.
 
- 
-
-
-
-    <p>RHCP y darse un tiempo para respirar son la clave para sobrevivir 
-    en este mundo lleno de problemas</p>
-</body>
-</html>
+¡Espero que encuentres la inspiración y motivación que necesitas en este repositorio! Si tienes alguna otra pregunta o necesitas más ayuda, no dudes en decírmelo. ¡Estoy aquí para asistirte!
