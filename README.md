@@ -13,7 +13,7 @@
 
     <p>Cuando necesites un impulso de motivación, simplemente regresa a 
     <a href="http://afrobook.me/La-vida-no-es-tan-mala/">este repositorio</a> 
-    tomate un momento para respirar conscientemente durante los 3 minutos y 40       segundos que dura la canción.</p>
+    tomate un momento para respirar conscientemente durante los 3 minutos y 40 segundos que dura la canción.</p>
 
     
 
